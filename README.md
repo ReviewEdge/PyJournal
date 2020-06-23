@@ -1,4 +1,4 @@
 # PyJournal
 A simple journal app.
 
-*Needs furtherpy to run.
+*Needs furtherpy to run
